@@ -1,0 +1,14 @@
+.logo{
+  width: 25px;
+  height: 25px;
+  margin: 0;
+}
+body{
+  background: #ecefd7;
+}
+button{
+  background-color: #f2b707;
+  border-radius: 4px;
+  border: 2px #ce8b0e;
+
+}
